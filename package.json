@@ -1,0 +1,14 @@
+{
+  "name": "Template",
+  "version": "0.0.1",
+  "description": "Simple command line utility for your templating needs.",
+  "main": "template.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henrik Djärv",
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "2.0.x"
+  }
+}
