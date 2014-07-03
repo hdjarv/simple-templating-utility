@@ -1,5 +1,5 @@
 {
-  "name": "Template",
+  "name": "simple-templating-utility",
   "version": "0.0.1",
   "description": "Simple command line utility for your templating needs.",
   "main": "template.js",
